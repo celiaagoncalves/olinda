@@ -1,0 +1,12 @@
+<svg width="220" height="56" viewBox="0 0 220 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="28" cy="28" r="23" stroke="#6E9188" stroke-width="1.8"/>
+  <circle cx="28" cy="28" r="16.5" stroke="#C68F87" stroke-width="1.2" stroke-dasharray="1.5 3"/>
+  <g stroke="#C0805F" stroke-width="1.8" stroke-linecap="round">
+    <path d="M28 20c-2.8 2.3-2.8 5.7 0 7.5 2.8-1.8 2.8-5.2 0-7.5Z" fill="#E8CFC9"/>
+    <path d="M28 36c-2.8-2.3-2.8-5.7 0-7.5 2.8 1.8 2.8 5.2 0 7.5Z" fill="#E8CFC9"/>
+    <path d="M20 28c2.3-2.8 5.7-2.8 7.5 0-1.8 2.8-5.2 2.8-7.5 0Z" fill="#CFDFD9"/>
+    <path d="M36 28c-2.3-2.8-5.7-2.8-7.5 0 1.8 2.8 5.2 2.8 7.5 0Z" fill="#CFDFD9"/>
+  </g>
+  <circle cx="28" cy="28" r="2.5" fill="#C0805F"/>
+  <text x="66" y="37" font-family="Georgia, 'Times New Roman', serif" font-size="34" letter-spacing="-0.5" fill="#40372F">olinda</text>
+</svg>

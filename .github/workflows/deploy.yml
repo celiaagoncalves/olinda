@@ -1,0 +1,61 @@
+name: Deploy no GitHub Pages
+
+# Publica o site sempre que houver alterações na branch main.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: # permite publicar manualmente a partir do GitHub
+
+# Permissões necessárias para publicar no GitHub Pages.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Só uma publicação de cada vez.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter o código
+        uses: actions/checkout@v4
+
+      - name: Instalar o Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Gerar o site estático
+        env:
+          GITHUB_PAGES: "true"
+        run: npm run build
+
+      - name: Garantir ficheiro .nojekyll
+        run: touch out/.nojekyll
+
+      - name: Configurar o GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Enviar o site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@v4

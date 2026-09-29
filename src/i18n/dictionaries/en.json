@@ -1,0 +1,207 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "gallery": "Pieces",
+    "custom": "Custom",
+    "contact": "Contact"
+  },
+  "common": {
+    "requestQuote": "Request a quote",
+    "viewPieces": "View pieces",
+    "learnMore": "Learn more",
+    "getInTouch": "Get in touch",
+    "startProject": "Start my project",
+    "languageName": "English"
+  },
+  "hero": {
+    "eyebrow": "Hand-painted ceramics",
+    "title": "Unique pieces,\npainted by hand.",
+    "subtitle": "From the tradition of Condeixa and Conímbriga ceramics to your ideas. We create custom pieces, painted one by one, for your everyday and your special moments.",
+    "primaryCta": "Request a quote",
+    "secondaryCta": "View pieces",
+    "imageCaption": "Every piece is hand-painted in our studio."
+  },
+  "categories": {
+    "eyebrow": "What we make",
+    "title": "Made to your taste",
+    "subtitle": "Choose the type of piece — we take care of the rest, from the sketch to the final brushstroke.",
+    "items": {
+      "mugs": {
+        "name": "Mugs",
+        "description": "Hand-painted mugs with names, motifs or illustrations of your choice."
+      },
+      "plates": {
+        "name": "Plates",
+        "description": "Decorative and serving plates, from the traditional style to a more contemporary design."
+      },
+      "kitchen": {
+        "name": "Kitchen pieces",
+        "description": "Sugar bowls, jugs, bowls and other pieces that give the kitchen its soul."
+      },
+      "events": {
+        "name": "Weddings & events",
+        "description": "Custom sets and keepsakes for weddings, christenings and celebrations."
+      }
+    }
+  },
+  "story": {
+    "eyebrow": "Our story",
+    "title": "A family tradition, painted by hand",
+    "body": "Olinda was born from our mother's hands — a ceramic painter in the tradition of Condeixa and Conímbriga. We grew up among brushes, paints and the fine strokes of this centuries-old craft. Today, mother and daughters bring that heritage together with the wish to create new pieces, made for each client.",
+    "cta": "Read our story"
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "From your idea to your table",
+    "steps": [
+      {
+        "title": "Tell us your idea",
+        "description": "Tell us what you imagine — the occasion, the colours, the motifs. You can send us references."
+      },
+      {
+        "title": "We sketch and quote",
+        "description": "We put together a proposal with the design and the quote, no strings attached."
+      },
+      {
+        "title": "We paint by hand",
+        "description": "Each piece is painted by hand, one by one, with our usual care."
+      },
+      {
+        "title": "We deliver",
+        "description": "You receive your piece ready to use or to gift, in careful packaging."
+      }
+    ]
+  },
+  "galleryPreview": {
+    "eyebrow": "From the studio",
+    "title": "A few of our pieces",
+    "cta": "View the full gallery"
+  },
+  "ctaBand": {
+    "title": "Have something in mind?",
+    "subtitle": "Tell us what you imagine and we'll create a piece that's truly yours.",
+    "button": "Request a quote"
+  },
+  "footer": {
+    "tagline": "Hand-painted ceramics, made for you.",
+    "explore": "Explore",
+    "contact": "Contact",
+    "follow": "Follow",
+    "rights": "All rights reserved.",
+    "madeWith": "Made by hand, with love."
+  },
+  "about": {
+    "meta": {
+      "title": "About",
+      "description": "The story of Olinda — a family tradition in the hand-painted ceramics of Condeixa and Conímbriga."
+    },
+    "eyebrow": "About Olinda",
+    "title": "The art of hand-painting, from mother to daughters",
+    "intro": "Olinda is a family studio. It brings together a lifetime of painting ceramics in the tradition of Condeixa and Conímbriga with the wish to create custom pieces, made for each person and each occasion.",
+    "sections": [
+      {
+        "title": "The tradition",
+        "body": "Our mother spent years painting the ceramics of Condeixa and Conímbriga — those fine strokes, the floral motifs and the serene palette passed down through generations. It is that steady hand and that eye that live in every piece we make."
+      },
+      {
+        "title": "Our take",
+        "body": "We don't just want to repeat the past. We love taking that heritage and creating new pieces: simpler, more personal, for everyday life and for the moments that stay with us."
+      },
+      {
+        "title": "Made by hand, made for you",
+        "body": "Every piece is painted by hand, one by one. No two are alike — and that's what makes them yours. We work with you, from the first sketch to the finished piece."
+      }
+    ],
+    "valuesTitle": "What guides us",
+    "values": [
+      { "title": "Hand-painted", "description": "No prints. Just brush, paint and time." },
+      { "title": "Personal", "description": "Every piece is designed around your request." },
+      { "title": "Living tradition", "description": "The heritage of Condeixa and Conímbriga, renewed." }
+    ]
+  },
+  "gallery": {
+    "meta": {
+      "title": "Pieces",
+      "description": "A gallery of hand-painted ceramics by Olinda — mugs, plates, kitchen pieces and event sets."
+    },
+    "eyebrow": "The gallery",
+    "title": "Our pieces",
+    "intro": "A taste of what we make. Every piece is hand-painted and can be personalised — colours, names, motifs and shapes to your liking.",
+    "filterAll": "All",
+    "note": "Can't find what you're looking for? We make pieces to order.",
+    "cardCta": "I'd like a similar one"
+  },
+  "custom": {
+    "meta": {
+      "title": "Custom",
+      "description": "Order personalised ceramic pieces — from a one-of-a-kind gift to sets for weddings and events."
+    },
+    "eyebrow": "Made to order",
+    "title": "A piece that's truly yours",
+    "intro": "Personalisation is at the heart of Olinda. Whether it's a one-of-a-kind gift or a full set for your big day, we create the piece with you in mind.",
+    "occasionsTitle": "Perfect for",
+    "occasions": [
+      { "title": "Gifts", "description": "A mug with a name, a plate with a date — gifts no one else has." },
+      { "title": "Weddings", "description": "Plate sets, keepsakes for your guests and pieces for the couple's table." },
+      { "title": "Events & business", "description": "Custom pieces for celebrations, christenings, birthdays or brands." },
+      { "title": "For your home", "description": "A collection designed to your taste, to use every day." }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      { "q": "How long does it take?", "a": "It depends on the piece and the quantity. Once we know your idea, we give you a clear estimate in the quote." },
+      { "q": "What's the minimum order?", "a": "We make anything from a single piece to large sets for events. Talk to us about what you need." },
+      { "q": "Can I send my own design?", "a": "Yes! We love starting from your ideas. Send references, colours or sketches and we'll work from there." },
+      { "q": "Are the pieces dishwasher safe?", "a": "We explain the care for each piece on delivery. Many are made for daily use; the more decorative ones need a little extra care." }
+    ],
+    "cta": "Start my project"
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact",
+      "description": "Request your quote from Olinda — hand-painted, personalised ceramic pieces."
+    },
+    "eyebrow": "Let's create together",
+    "title": "Request a quote",
+    "intro": "Tell us what you imagine and we'll reply with a proposal, no strings attached. The more details, the better we can help.",
+    "directTitle": "Or reach us directly",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "phone": "Phone (optional)",
+      "phonePlaceholder": "+351 912 345 678",
+      "pieceType": "Type of piece",
+      "pieceTypeOptions": {
+        "mugs": "Mugs",
+        "plates": "Plates",
+        "kitchen": "Kitchen pieces",
+        "events": "Weddings & events",
+        "other": "Other / not sure yet"
+      },
+      "quantity": "Quantity (approx.)",
+      "quantityPlaceholder": "e.g. 1, 12, 50...",
+      "eventDate": "Event date (if applicable)",
+      "message": "Your idea",
+      "messagePlaceholder": "Describe the piece you imagine — colours, motifs, names, occasion...",
+      "submit": "Send request",
+      "submitting": "Sending...",
+      "required": "required",
+      "emailOpenedTitle": "We've opened your email",
+      "emailOpenedBody": "We've filled in a message with your request — just hit send in your email app. If it didn't open automatically, write to us at {email}.",
+      "successTitle": "Request sent!",
+      "successBody": "Thank you for your request. We'll review it and get back to you as soon as we can.",
+      "errorTitle": "Oops, something went wrong.",
+      "errorBody": "We couldn't send your request. Please try again or reach us directly by email.",
+      "validationName": "Please enter your name.",
+      "validationEmail": "Please enter a valid email.",
+      "validationMessage": "Tell us a little about the piece you imagine."
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "The page you're looking for doesn't exist or has moved.",
+    "cta": "Back to home"
+  }
+}

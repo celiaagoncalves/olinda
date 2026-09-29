@@ -1,0 +1,207 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "gallery": "Peças",
+    "custom": "Personalizar",
+    "contact": "Contacto"
+  },
+  "common": {
+    "requestQuote": "Pedir orçamento",
+    "viewPieces": "Ver peças",
+    "learnMore": "Saber mais",
+    "getInTouch": "Fale connosco",
+    "startProject": "Começar o meu projeto",
+    "languageName": "Português"
+  },
+  "hero": {
+    "eyebrow": "Cerâmica pintada à mão",
+    "title": "Peças únicas,\npintadas à mão.",
+    "subtitle": "Da tradição da cerâmica de Condeixa e Conímbriga às suas ideias. Criamos peças personalizadas, pintadas uma a uma, para o seu dia a dia e para os seus momentos especiais.",
+    "primaryCta": "Pedir orçamento",
+    "secondaryCta": "Ver peças",
+    "imageCaption": "Cada peça é pintada à mão no nosso ateliê."
+  },
+  "categories": {
+    "eyebrow": "O que fazemos",
+    "title": "Feito à medida do seu gosto",
+    "subtitle": "Escolha o tipo de peça — nós tratamos do resto, do desenho à pintura final.",
+    "items": {
+      "mugs": {
+        "name": "Canecas",
+        "description": "Canecas pintadas à mão, com nomes, motivos ou ilustrações à sua escolha."
+      },
+      "plates": {
+        "name": "Pratos",
+        "description": "Pratos decorativos e de servir, do traço tradicional ao design mais contemporâneo."
+      },
+      "kitchen": {
+        "name": "Acessórios de cozinha",
+        "description": "Açucareiros, jarros, taças e outras peças que dão alma à cozinha."
+      },
+      "events": {
+        "name": "Casamentos & eventos",
+        "description": "Conjuntos e lembranças personalizadas para casamentos, batizados e celebrações."
+      }
+    }
+  },
+  "story": {
+    "eyebrow": "A nossa história",
+    "title": "Uma tradição de família, pintada à mão",
+    "body": "A Olinda nasce das mãos da nossa mãe, pintora de cerâmica na tradição de Condeixa e Conímbriga. Foi entre pincéis, tintas e o traço fino desta arte centenária que crescemos. Hoje, mãe e filhas juntamos essa herança à vontade de criar peças novas, pensadas para cada cliente.",
+    "cta": "Conhecer a nossa história"
+  },
+  "process": {
+    "eyebrow": "Como funciona",
+    "title": "Da sua ideia à sua mesa",
+    "steps": [
+      {
+        "title": "Conte-nos a sua ideia",
+        "description": "Diga-nos que peça imagina — a ocasião, as cores, os motivos. Pode enviar-nos referências."
+      },
+      {
+        "title": "Desenhamos e orçamentamos",
+        "description": "Preparamos uma proposta com o desenho e o orçamento, sem compromisso."
+      },
+      {
+        "title": "Pintamos à mão",
+        "description": "Cada peça é pintada à mão, uma a uma, com o cuidado de sempre."
+      },
+      {
+        "title": "Entregamos",
+        "description": "Recebe a sua peça pronta a usar ou a oferecer, com embalagem cuidada."
+      }
+    ]
+  },
+  "galleryPreview": {
+    "eyebrow": "Do ateliê",
+    "title": "Algumas das nossas peças",
+    "cta": "Ver toda a galeria"
+  },
+  "ctaBand": {
+    "title": "Tem uma ideia em mente?",
+    "subtitle": "Conte-nos o que imagina e criamos uma peça só sua.",
+    "button": "Pedir orçamento"
+  },
+  "footer": {
+    "tagline": "Cerâmica pintada à mão, feita para si.",
+    "explore": "Explorar",
+    "contact": "Contacto",
+    "follow": "Seguir",
+    "rights": "Todos os direitos reservados.",
+    "madeWith": "Feito à mão, com carinho."
+  },
+  "about": {
+    "meta": {
+      "title": "Sobre",
+      "description": "A história da Olinda — uma tradição de família na cerâmica pintada à mão de Condeixa e Conímbriga."
+    },
+    "eyebrow": "Sobre a Olinda",
+    "title": "A arte de pintar à mão, de mãe para filhas",
+    "intro": "A Olinda é um ateliê de família. Une a experiência de uma vida a pintar cerâmica na tradição de Condeixa e Conímbriga à vontade de criar peças personalizadas, pensadas para cada pessoa e cada ocasião.",
+    "sections": [
+      {
+        "title": "A tradição",
+        "body": "A nossa mãe dedicou anos à pintura da cerâmica de Condeixa e Conímbriga — aquele traço fino, os motivos florais e a paleta serena que atravessam gerações. É essa mão firme e esse olhar que estão em cada peça que fazemos."
+      },
+      {
+        "title": "O nosso olhar",
+        "body": "Não queremos apenas repetir o passado. Gostamos de pegar nessa herança e criar peças novas: mais simples, mais pessoais, para o dia a dia e para os momentos que ficam na memória."
+      },
+      {
+        "title": "Feito à mão, feito para si",
+        "body": "Cada peça é pintada à mão, uma a uma. Não há duas iguais — e é isso que as torna suas. Trabalhamos consigo, do primeiro esboço à peça final."
+      }
+    ],
+    "valuesTitle": "O que nos guia",
+    "values": [
+      { "title": "Pintado à mão", "description": "Nada de impressões. Só pincel, tinta e tempo." },
+      { "title": "Personalizado", "description": "Cada peça é pensada ao seu pedido." },
+      { "title": "Tradição viva", "description": "A herança de Condeixa e Conímbriga, renovada." }
+    ]
+  },
+  "gallery": {
+    "meta": {
+      "title": "Peças",
+      "description": "Galeria de peças de cerâmica pintadas à mão pela Olinda — canecas, pratos, acessórios de cozinha e conjuntos para eventos."
+    },
+    "eyebrow": "A galeria",
+    "title": "As nossas peças",
+    "intro": "Uma amostra do que fazemos. Todas as peças são pintadas à mão e podem ser personalizadas — cores, nomes, motivos e formatos ao seu gosto.",
+    "filterAll": "Todas",
+    "note": "Não encontra o que procura? Fazemos peças à medida.",
+    "cardCta": "Quero uma parecida"
+  },
+  "custom": {
+    "meta": {
+      "title": "Personalizar",
+      "description": "Encomende peças de cerâmica personalizadas — do presente único aos conjuntos para casamentos e eventos."
+    },
+    "eyebrow": "Peças à medida",
+    "title": "Uma peça só sua",
+    "intro": "A personalização é o coração da Olinda. Seja um presente único ou um conjunto completo para o seu grande dia, criamos a peça a pensar em si.",
+    "occasionsTitle": "Ideal para",
+    "occasions": [
+      { "title": "Presentes", "description": "Uma caneca com um nome, um prato com uma data — presentes que ninguém mais tem." },
+      { "title": "Casamentos", "description": "Conjuntos de pratos, lembranças para os convidados e peças para a mesa dos noivos." },
+      { "title": "Eventos & empresas", "description": "Peças personalizadas para celebrações, batizados, aniversários ou marcas." },
+      { "title": "Para a sua casa", "description": "Uma coleção pensada ao seu gosto, para usar todos os dias." }
+    ],
+    "faqTitle": "Perguntas frequentes",
+    "faq": [
+      { "q": "Quanto tempo demora?", "a": "Depende da peça e da quantidade. Depois de conhecermos a sua ideia, damos-lhe uma estimativa clara no orçamento." },
+      { "q": "Qual é a quantidade mínima?", "a": "Fazemos desde uma peça única até conjuntos grandes para eventos. Fale connosco sobre o que precisa." },
+      { "q": "Posso enviar o meu próprio desenho?", "a": "Sim! Adoramos partir das suas ideias. Envie referências, cores ou esboços e trabalhamos a partir daí." },
+      { "q": "As peças podem ir à máquina?", "a": "Explicamos os cuidados de cada peça na entrega. Muitas são de uso diário; as mais decorativas pedem um cuidado extra." }
+    ],
+    "cta": "Começar o meu projeto"
+  },
+  "contact": {
+    "meta": {
+      "title": "Contacto",
+      "description": "Peça o seu orçamento à Olinda — peças de cerâmica pintadas à mão e personalizadas."
+    },
+    "eyebrow": "Vamos criar juntos",
+    "title": "Pedir orçamento",
+    "intro": "Conte-nos o que imagina e respondemos com uma proposta sem compromisso. Quanto mais detalhes, melhor conseguimos ajudar.",
+    "directTitle": "Ou fale connosco diretamente",
+    "form": {
+      "name": "Nome",
+      "namePlaceholder": "O seu nome",
+      "email": "Email",
+      "emailPlaceholder": "o.seu@email.com",
+      "phone": "Telefone (opcional)",
+      "phonePlaceholder": "912 345 678",
+      "pieceType": "Tipo de peça",
+      "pieceTypeOptions": {
+        "mugs": "Canecas",
+        "plates": "Pratos",
+        "kitchen": "Acessórios de cozinha",
+        "events": "Casamentos & eventos",
+        "other": "Outro / não sei ainda"
+      },
+      "quantity": "Quantidade (aprox.)",
+      "quantityPlaceholder": "Ex: 1, 12, 50...",
+      "eventDate": "Data do evento (se aplicável)",
+      "message": "A sua ideia",
+      "messagePlaceholder": "Descreva a peça que imagina — cores, motivos, nomes, ocasião...",
+      "submit": "Enviar pedido",
+      "submitting": "A enviar...",
+      "required": "obrigatório",
+      "emailOpenedTitle": "Abrimos o seu email",
+      "emailOpenedBody": "Preenchemos uma mensagem com o seu pedido — é só carregar em enviar no seu programa de email. Se não abriu automaticamente, escreva-nos para {email}.",
+      "successTitle": "Pedido enviado!",
+      "successBody": "Obrigada pelo seu pedido. Vamos analisá-lo e responder o mais depressa possível.",
+      "errorTitle": "Ups, algo correu mal.",
+      "errorBody": "Não foi possível enviar o pedido. Tente novamente ou contacte-nos diretamente por email.",
+      "validationName": "Indique o seu nome.",
+      "validationEmail": "Indique um email válido.",
+      "validationMessage": "Conte-nos um pouco sobre a peça que imagina."
+    }
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "body": "A página que procura não existe ou foi movida.",
+    "cta": "Voltar ao início"
+  }
+}

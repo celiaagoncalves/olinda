@@ -1,0 +1,94 @@
+@import "tailwindcss";
+
+/* ------------------------------------------------------------------ */
+/* Olinda — tema (Ateliê editorial)                                    */
+/* Paleta: creme + rosa velho + verde água + terracota                 */
+/* ------------------------------------------------------------------ */
+@theme {
+  --color-cream: #faf5ef;
+  --color-sand: #efe6db;
+  --color-sand-deep: #e6d8c8;
+
+  --color-rose: #c68f87;
+  --color-rose-deep: #a8756d;
+  --color-rose-soft: #e8cfc9;
+
+  --color-sage: #93b1a7;
+  --color-sage-deep: #6e9188;
+  --color-sage-soft: #cfdfd9;
+
+  --color-terracotta: #c0805f;
+  --color-terracotta-deep: #a5674a;
+
+  --color-ink: #40372f;
+  --color-muted: #7a6e63;
+  --color-line: #e3d8ca;
+
+  --font-display: var(--font-fraunces), Georgia, "Times New Roman", serif;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  --radius-xl2: 1.75rem;
+
+  --ease-soft: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* base --------------------------------------------------------------- */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--color-rose-soft);
+  color: var(--color-ink);
+}
+
+/* headings default to the display serif */
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  color: var(--color-ink);
+}
+
+/* utility: fine-grained tracking for small caps labels */
+.eyebrow {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--color-rose-deep);
+}
+
+/* subtle grain-free paper feel via layered soft gradients */
+.paper {
+  background-image:
+    radial-gradient( at 15% 10%, rgba(147, 177, 167, 0.08) 0px, transparent 55%),
+    radial-gradient(at 85% 90%, rgba(198, 143, 135, 0.08) 0px, transparent 55%);
+}
+
+/* entrance animation used by the Reveal component */
+@keyframes reveal-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
